@@ -4,18 +4,13 @@ class Solution {
         if (n < 3) {
             return s;
         }
-        int i = 0;
-        int j = 1;
-        StringBuilder sb = new StringBuilder(s);
-        for (int k = 2; k < sb.length(); k++) {
-            while (k<sb.length() && sb.charAt(i) == sb.charAt(j) && sb.charAt(j) == sb.charAt(k)) {
-                sb.deleteCharAt(k);
+        StringBuilder sb=new StringBuilder();
+        sb.append(s.charAt(0)).append(s.charAt(1));
+        for(int i=2; i< s.length(); i++){
+            if((s.charAt(i)!=sb.charAt(sb.length()-1) )|| (s.charAt(i)!=sb.charAt(sb.length()-2))){
+                sb.append(s.charAt(i));
             }
-            i++;
-            j++;
         }
-
         return sb.toString();
-
     }
 }
