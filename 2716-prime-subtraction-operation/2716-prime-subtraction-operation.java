@@ -9,14 +9,14 @@ class Solution {
         return true;
     }
 
-    private boolean isPrime(int num) {
-        for (int i = 2; i <= Math.sqrt(num); i++) {
-            if (num % i == 0) {
-                return false;
-            }
-        }
-        return true;
-    }
+    // private boolean isPrime(int num) {
+    //     for (int i = 2; i <= Math.sqrt(num); i++) {
+    //         if (num % i == 0) {
+    //             return false;
+    //         }
+    //     }
+    //     return true;
+    // }
 
     public boolean primeSubOperation(int[] nums) {
         // It could be any prime number not just lesser one
@@ -25,10 +25,17 @@ class Solution {
         }
 
         boolean primeArr[] = new boolean[1001];
+        Arrays.fill(primeArr, true);
+        primeArr[1]=false;
         for (int i = 2; i < primeArr.length; i++) {
-            if (isPrime(i)){
-                primeArr[i] = true;
+            if(primeArr[i]){//0 means prime 
+                for(int j=i*i; j<1001; j+=i){
+                    primeArr[j]=false;
+                }
             }
+            // if (isPrime(i)){
+            //     primeArr[i] = true;
+            // }
         }
         int prev = 0;
         // find the index from right where change has been occured
