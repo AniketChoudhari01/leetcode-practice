@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
+| [3427-special-array-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
