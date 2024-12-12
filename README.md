@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2554-minimum-total-distance-traveled](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -154,4 +155,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
