@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -156,8 +159,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Simulation
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
