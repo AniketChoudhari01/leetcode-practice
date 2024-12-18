@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -115,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Bit Manipulation
 |  |
