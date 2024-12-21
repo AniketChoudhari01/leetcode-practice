@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Trie
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Tree
+|  |
+| ------- |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
