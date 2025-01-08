@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3427-special-array-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3451-string-compression-iii) |
 ## Depth-First Search
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
 |  |
 | ------- |
@@ -227,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
