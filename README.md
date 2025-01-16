@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2554-minimum-total-distance-traveled](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0067-add-binary) |
 | [1940-maximum-xor-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
