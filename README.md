@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0952-word-subsets) |
 | [1063-best-sightseeing-pair](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Trie
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2145-grid-game) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -294,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
