@@ -8,29 +8,12 @@ class Solution {
         while (right < n) {
             char ch = s.charAt(right);
             if (map.containsKey(ch)) {
-                maxLen = Math.max(maxLen, map.size());
-                boolean isRepeating = false;
-                right ++;
-                while (right < n && ch == s.charAt(right)) {
-                    isRepeating = true;
-                    right++;
-                }
-                if(isRepeating){
-                    right--;
-                }else{
-                    right = map.get(ch) + 1;
-                }
-                left = right;
-                // System.out.println(left+" , "+right);
-                map.clear();
-                map.put(s.charAt(left), left);
-
-            } else {
-                map.put(ch, right);
+                left = Math.max(left, map.get(ch) + 1);
             }
+            maxLen = Math.max(maxLen, right - left + 1);
+            map.put(ch, right);
             right++;
-            // System.out.println(map);
         }
-        return Math.max(maxLen, map.size());
+        return maxLen;
     }
 }
