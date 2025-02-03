@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0878-shifting-letters) |
 | [0943-sum-of-subarray-minimums](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0952-word-subsets](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0878-shifting-letters) |
+| [0966-binary-subarrays-with-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2145-grid-game) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
