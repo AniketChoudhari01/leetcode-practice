@@ -11,7 +11,6 @@ class Solution {
         }
         if (n == k)
             return temp;
-        System.out.println(Arrays.toString(prefixSum));
         for (int left = n - k, it = 0; it <= k; left = (left + 1) % n, it++) {
             int total = temp - prefixSum[(left - 1 + n) % n];
             int rem = k;
