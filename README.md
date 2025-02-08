@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -386,4 +388,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1558-course-schedule-iv) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2439-longest-cycle-in-a-graph) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
