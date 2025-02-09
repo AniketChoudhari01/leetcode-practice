@@ -9,8 +9,6 @@ class Solution {
             goodPairs += map.getOrDefault(diff, 0);
             map.put(diff, map.getOrDefault(diff, 0) + 1);
         }
-        System.out.println(goodPairs);
-
         return totalPairs - goodPairs;
     }
 }
