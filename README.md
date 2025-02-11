@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0735-asteroid-collision) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Backtracking
