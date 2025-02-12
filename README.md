@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
