@@ -1,32 +1,21 @@
 class FindElements {
-    Set<Integer> set = new HashSet<>();
+    BitSet bitSet;
 
     public FindElements(TreeNode root) {
-        // level order traversal
-        Queue<TreeNode> queue = new ArrayDeque<>();
-        root.val = 0;
-        queue.add(root);
-        set.add(0);
-        while (!queue.isEmpty()) {
-            TreeNode node = queue.poll();
-            int x = node.val;
-            if (node.left != null) {
-                node.left.val = 2 * x + 1;
-                queue.offer(node.left);
-                set.add(2 * x + 1);
-            }
-            if (node.right != null) {
-                node.right.val = 2 * x + 2;
-                queue.offer(node.right);
-                set.add(2 * x + 2);
-            }
-        }
+        bitSet = new BitSet();
+        bitSet.set(0);
+        buildTree(root, 0);
+    }
+    private void buildTree(TreeNode root, int val){
+        if(root == null) return;
+        root.val = val;
+        bitSet.set(val);
+        buildTree(root.left, 2*val + 1);
+        buildTree(root.right, 2*val + 2);
     }
 
     public boolean find(int target) {
-        if (set.contains(target))
-            return true;
-        return false;
+        return bitSet.get(target);
     }
 }
 
