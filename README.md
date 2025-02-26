@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1876-map-of-highest-peak](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1063-best-sightseeing-pair](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1063-best-sightseeing-pair) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2554-minimum-total-distance-traveled) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2145-grid-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0067-add-binary) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
