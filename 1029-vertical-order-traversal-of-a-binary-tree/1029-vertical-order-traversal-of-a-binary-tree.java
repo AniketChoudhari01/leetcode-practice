@@ -2,7 +2,7 @@
 class Solution {
     Map<Integer, Map<Integer, ArrayList<Integer>>> map;
 
-    private void bfs(TreeNode root, int level, int vertical) {
+    private void dfs(TreeNode root, int level, int vertical) {
         if (root == null)
             return;
         if (map.containsKey(vertical)) {
@@ -19,14 +19,14 @@ class Solution {
             // System.out.println(" "+currMap);
             map.put(vertical, currMap);
         }
-        bfs(root.left, level + 1, vertical - 1);
-        bfs(root.right, level + 1, vertical + 1);
+        dfs(root.left, level + 1, vertical - 1);
+        dfs(root.right, level + 1, vertical + 1);
     }
 
     public List<List<Integer>> verticalTraversal(TreeNode root) {
         map = new TreeMap<>();
         List<List<Integer>> list = new ArrayList<>();
-        bfs(root, 0, 0);
+        dfs(root, 0, 0);
         // System.out.println(map);
         for (Map.Entry<Integer, Map<Integer, ArrayList<Integer>>> item : map.entrySet()) {// vertical
             List<Integer> li = new ArrayList<>();
