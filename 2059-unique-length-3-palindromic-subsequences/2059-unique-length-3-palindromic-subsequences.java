@@ -14,15 +14,19 @@ class Solution {
             }
         }
         int ans = 0;
-        Set<Character> set;
+        boolean visited[];
         for(int a[]:arr){
             if(a[0]==-1 || a[1]==-1) continue;
-            set = new HashSet<>();
+            visited = new boolean[26];
+            int temp = 0;
             for(int i=a[0]+1; i<a[1];i++){
                 char ch = s.charAt(i);
-                set.add(ch);
+                if(!visited[ch-'a']){
+                    visited[ch-'a']= true;
+                    temp++;
+                }
             }
-            ans += set.size();
+            ans += temp;
         }
         return ans;
     }
