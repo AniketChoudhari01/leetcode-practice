@@ -1,28 +1,21 @@
 
 class Solution {
-    // TreeMap<Integer, Integer> map;
-
-    private void dfs(int level, TreeNode root, List<Integer> ans) {
-        if (root == null) {
-            return;
-        }
-        if(ans.size() == level){
-            ans.add(root.val);
-        }
-        // map.put(level, root.val);
-        //prioritize right first
-        dfs(level + 1, root.right, ans);
-        dfs(level + 1, root.left, ans);
+    TreeMap<Integer, Integer> map;
+    private void findRightView(TreeNode root, int horizontal){
+        if(root == null) return;
+        findRightView(root.left, horizontal + 1);
+        map.put(horizontal, root.val);
+        findRightView(root.right, horizontal + 1);
     }
 
     public List<Integer> rightSideView(TreeNode root) {
         if(root == null) return new ArrayList<>();
-        // map = new TreeMap<>();
-        List<Integer> ans = new ArrayList<>();
-        dfs(0, root, ans);
-        // for(Map.Entry<Integer, Integer> item: map.entrySet()){
-        //     ans.add(item.getValue());
-        // }
-        return ans;
+        map = new TreeMap<>();
+        findRightView(root, 0);
+        List<Integer> ansList = new ArrayList<>();
+        for(Map.Entry<Integer, Integer> item:map.entrySet()){
+            ansList.add(item.getValue());
+        }
+        return ansList;
     }
 }
