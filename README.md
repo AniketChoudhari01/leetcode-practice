@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1063-best-sightseeing-pair) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
