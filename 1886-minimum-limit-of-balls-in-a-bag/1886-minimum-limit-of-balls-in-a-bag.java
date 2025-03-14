@@ -2,7 +2,8 @@ class Solution {
     private boolean isMinPenalty(int penalty, int nums[], int maxOprs){
         int cnt = 0;
         for(int num: nums){
-            cnt += Math.ceil(num/(double)penalty)-1; //take care of int/int division and also -1 since with one operation we can divide the bag into 2 bags
+            // cnt += Math.ceil(num/(double)penalty)-1; //take care of int/int division and also -1 since with one operation we can divide the bag into 2 bags
+            cnt += (num -1 )/penalty;
             if(cnt > maxOprs) return false;
         }
         return true;
