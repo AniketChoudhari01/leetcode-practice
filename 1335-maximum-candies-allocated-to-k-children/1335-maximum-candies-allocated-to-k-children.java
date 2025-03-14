@@ -1,4 +1,5 @@
 class Solution {
+    long maxi ;
     private boolean isSufficient(long k, long mid, int candies[]){
         long cnt = 0;
         for(int candy: candies){
@@ -17,10 +18,10 @@ class Solution {
     }
     public int maximumCandies(int[] candies, long k) {
         int n = candies.length;//binary search on ans space
-        long total = candies.length;
+        long maxi = Integer.MIN_VALUE;
         for(int candy: candies){
-            total += candy; 
+            maxi = Math.max(maxi, candy);
         }
-        return binarySearchOnAnsSpace(1L, total, k, candies);
+        return binarySearchOnAnsSpace(1, maxi, k, candies);
     }
 }
