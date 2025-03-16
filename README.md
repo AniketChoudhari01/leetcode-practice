@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0402-remove-k-digits) |
+| [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0952-word-subsets) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0402-remove-k-digits) |
+| [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1364-tuple-with-same-product](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
