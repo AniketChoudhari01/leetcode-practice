@@ -5,11 +5,9 @@ class Solution {
         for(int i=0; i<n; i++){
             freq[nums[i]]++;
         }
-        int cnt = 0;
-        int pairs = n / 2;
         for(int i=0; i<freq.length; i++){
-            cnt += freq[i]/2;
+            if(freq[i] % 2 !=0) return false;
         }
-        return cnt == pairs;
+        return true;
     }
 }
