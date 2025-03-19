@@ -3,25 +3,16 @@ class Solution {
         int n = nums.length;
         int ans = 0;
         for (int i = 0; i < n - 2; i++) {
-            if(nums[i] == 1){
+            if (nums[i] == 1) {
                 continue;
             }
-            int cnt1 = 0;
             for (int j = i; j < i + 3; j++) {// window
-                if (nums[j] == 1)
-                    cnt1++;
+                nums[j] ^= 1;
             }
-            if (cnt1 != 3) {
-                for (int j = i; j < i + 3; j++) {// window
-                    nums[j] ^= 1;
-                }
-                ans++;
-            }
+            ans++;
         }
-        for (int i = 0; i < n; i++) {
-            if (nums[i] != 1)
-                return -1;
-        }
+        if (nums[n-1] != 1 || nums[n-2] != 1)
+            return -1;
         return ans;
     }
 }
