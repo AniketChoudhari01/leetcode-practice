@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2161-stock-price-fluctuation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2161-stock-price-fluctuation) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2161-stock-price-fluctuation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2161-stock-price-fluctuation) |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
@@ -563,15 +565,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2161-stock-price-fluctuation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2161-stock-price-fluctuation) |
 | [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
+| [2161-stock-price-fluctuation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2161-stock-price-fluctuation) |
 | [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2161-stock-price-fluctuation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2161-stock-price-fluctuation) |
 ## Queue
 |  |
 | ------- |
