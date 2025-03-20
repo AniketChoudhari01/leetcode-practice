@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
