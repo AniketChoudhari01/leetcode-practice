@@ -6,7 +6,6 @@ class Solution {
             difference[queries[i][0]]++;
             difference[1 + queries[i][1]]--;
         }
-        System.out.println(Arrays.toString(difference));
         int sum = 0;
         for(int i=0; i<n; i++){
             sum += difference[i];//prefix sum
