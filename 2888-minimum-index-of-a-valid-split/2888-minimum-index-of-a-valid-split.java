@@ -1,17 +1,30 @@
 class Solution {
     public int minimumIndex(List<Integer> nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
+        //using boyer-moore's majority voting algorithm
+        int votes = 0;
+        int candidate = -1;
         for(int item: nums){
             map.put(item, map.getOrDefault(item, 0)+1);
-        }
-        int dom_elem = 0;
-        int N = -1;
-        for(Map.Entry<Integer, Integer> pair: map.entrySet()){
-            if(N < pair.getValue()){
-                N = pair.getValue();
-                dom_elem = pair.getKey();
+            if(votes == 0){
+                votes = 1;
+                candidate = item;
+            }else{
+                if(candidate == item){
+                    votes++;
+                }else{
+                    votes--;
+                }
             }
         }
+        int dom_elem = candidate;
+        int N = map.get(candidate);
+        // for(Map.Entry<Integer, Integer> pair: map.entrySet()){
+        //     if(N < pair.getValue()){
+        //         N = pair.getValue();
+        //         dom_elem = pair.getKey();
+        //     }
+        // }
         int n = nums.size();
         int left_cnt = 0;
         int right_cnt = N;
