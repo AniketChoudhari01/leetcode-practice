@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0162-find-peak-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
