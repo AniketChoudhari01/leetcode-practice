@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0198-house-robber) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0067-add-binary) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
