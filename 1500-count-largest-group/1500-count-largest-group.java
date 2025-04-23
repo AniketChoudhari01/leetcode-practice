@@ -1,9 +1,7 @@
 class Solution {
     public int countLargestGroup(int n) {
-        int max_size = 9*((int)Math.floor(Math.log10(n))+1)+1;
-        // System.out.println(max_size);
-        int sum[] = new int[max_size];
-        TreeMap<Integer, Integer> map = new TreeMap<>();
+        int sum[] = new int[37];
+        int max_grp = 1;
         for (int num = 1; num <= n; num++) {
             int curr_sum = 0;
             int temp = num;
@@ -12,12 +10,12 @@ class Solution {
                 temp /= 10;
             } 
             sum[curr_sum]++;
+            max_grp = Math.max(max_grp, sum[curr_sum]);
         }
+        int cnt = 0;
         for (int size : sum) {
-            if (size != 0) {
-                map.put(size, map.getOrDefault(size, 0) + 1);
-            }
+            if (size == max_grp) cnt++;
         }
-        return map.lastEntry().getValue();
+        return cnt;
     }
 }
