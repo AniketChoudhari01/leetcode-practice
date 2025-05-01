@@ -14,20 +14,14 @@ class Solution {
         if(right != -1 && down != -1) min = Math.min(right, down);
         else if(right != -1) min = right;
         else if(down != -1) min = down;
-        // System.out.println(min);
         return dp[i][j] = grid[i][j] + min;
     }
 
     public int minPathSum(int[][] grid) {
         int m = grid.length, n = grid[0].length;
         dp = new int[m][n];
-        for (int arr[] : dp) {
-            Arrays.fill(arr, -1);
-        }
-        int min = minSum(0, 0, grid);
-        for (int a[] : dp) {
-            System.out.println(Arrays.toString(a));
-        }
-        return min;
+        for (int arr[] : dp) Arrays.fill(arr, -1);
+
+        return minSum(0, 0, grid);
     }
 }
