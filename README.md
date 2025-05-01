@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0162-find-peak-element) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0854-making-a-large-island](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0854-making-a-large-island) |
