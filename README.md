@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -484,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -591,11 +596,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -675,4 +682,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
