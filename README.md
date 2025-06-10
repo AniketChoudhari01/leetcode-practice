@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
