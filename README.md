@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3643-zero-array-transformation-ii) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## String Matching
 |  |
