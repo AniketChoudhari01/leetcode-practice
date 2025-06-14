@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2509-minimize-xor) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
