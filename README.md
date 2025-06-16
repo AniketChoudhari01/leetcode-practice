@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [1940-maximum-xor-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
