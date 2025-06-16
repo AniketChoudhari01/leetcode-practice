@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1558-course-schedule-iv) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2439-longest-cycle-in-a-graph) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Trie
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -626,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Backtracking
 |  |
