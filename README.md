@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
