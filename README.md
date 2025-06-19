@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -638,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -708,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
