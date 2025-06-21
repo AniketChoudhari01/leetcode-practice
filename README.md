@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Matrix
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## String Matching
 |  |
 | ------- |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Prefix Sum
