@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
