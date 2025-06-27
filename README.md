@@ -776,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Merge Sort
@@ -809,4 +810,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
