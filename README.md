@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1894-merge-strings-alternately](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
