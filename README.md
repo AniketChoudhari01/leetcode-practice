@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0735-asteroid-collision) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0876-hand-of-straights) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0594-longest-harmonious-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
