@@ -5,16 +5,17 @@ class Solution {
         int n = image[0].length;
         int originalColor = image[sr][sc];
         Queue<int[]> q = new LinkedList<>();
-        boolean visited[][] = new boolean[m][n];
+        // boolean visited[][] = new boolean[m][n];
         q.add(new int[] { sr, sc });
-        visited[sr][sc] = true;
+        // visited[sr][sc] = true;
+        image[sr][sc] = color;
         int dx[] = { -1, 0, 1, 0 };
         int dy[] = { 0, 1, 0, -1 };
         while (!q.isEmpty()) {
             int size = q.size();
             for (int i = 0; i < size; i++) {
                 int point[] = q.poll();
-                image[point[0]][point[1]] = color;
+                // image[point[0]][point[1]] = color;
                 for (int j = 0; j < 4; j++) {
                     int x = point[0] + dx[j];
                     int y = point[1] + dy[j];
