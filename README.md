@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1063-best-sightseeing-pair) |
+| [1073-number-of-enclaves](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1364-tuple-with-same-product) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2145-grid-game) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1558-course-schedule-iv) |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0854-making-a-large-island) |
+| [1073-number-of-enclaves](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
