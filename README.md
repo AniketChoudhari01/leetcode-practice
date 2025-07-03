@@ -478,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
 |  |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Iterator
 |  |
 | ------- |
