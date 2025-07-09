@@ -8,16 +8,16 @@ class Solution {
         int maxFreeTime = 0;
         int start = 0;
         int n = startTime.length;
-        int duration[] = new int[n];
+        int prefixSum[] = new int[n+1]; // stores the duration
         for(int i = 0; i<n; i++){
-            duration[i] = endTime[i] - startTime[i];
+            prefixSum[i + 1] += prefixSum[i] + endTime[i] - startTime[i];
         }
         for(int i = 0; i+k <= n; i++){
             int newEnd = (i + k < n ? startTime[i+k] : eventTime);
-            int meetDuration = 0;//length of meet
-            for(int j = i; j < i + k && j < n; j++){
-                meetDuration += duration[j];
-            }
+            int meetDuration = prefixSum[i+k] - prefixSum[i];//length of meet
+            // for(int j = i; j < i + k && j < n; j++){
+            //     meetDuration += duration[j];
+            // }
             maxFreeTime = Math.max(maxFreeTime, newEnd - start - meetDuration);
             start = endTime[i];
         }
