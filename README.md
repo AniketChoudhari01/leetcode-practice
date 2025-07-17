@@ -837,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2439-longest-cycle-in-a-graph) |
+| [3189-find-champion-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
