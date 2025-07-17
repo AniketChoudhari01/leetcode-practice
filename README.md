@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3427-special-array-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3430-count-days-without-meetings) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3430-count-days-without-meetings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Matrix
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3390-minimum-rectangles-to-cover-points](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
