@@ -10,16 +10,20 @@ class Solution {
                 area += (grid[i][j] != 0 ? 1 : 0);
                 maxInRow[i] = Math.max(maxInRow[i], grid[i][j]);
                 maxInCol[j] = Math.max(maxInCol[j], grid[i][j]);
+                if(i == m-1){
+                    area += maxInCol[j];
+                }
             }
+            area += maxInRow[i];
         }
         // System.out.println(Arrays.toString(maxInRow));
         // System.out.println(Arrays.toString(maxInCol));
-        for(int item: maxInCol){
-            area += item;
-        }
-        for(int item: maxInRow){
-            area += item;
-        }
+        // for(int item: maxInCol){
+        //     area += item;
+        // }
+        // for(int item: maxInRow){
+        //     area += item;
+        // }
         return area;
     }
 }
