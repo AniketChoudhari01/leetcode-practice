@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3738-make-array-non-decreasing](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3738-make-array-non-decreasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3738-make-array-non-decreasing](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3738-make-array-non-decreasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3447-clear-digits) |
+| [3738-make-array-non-decreasing](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2227-sum-of-subarray-ranges) |
+| [3738-make-array-non-decreasing](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3738-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
 | ------- |
