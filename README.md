@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3738-make-array-non-decreasing](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3738-make-array-non-decreasing) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Math
 |  |
@@ -603,12 +605,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Number Theory
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2716-prime-subtraction-operation) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -899,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Search Tree
 |  |
