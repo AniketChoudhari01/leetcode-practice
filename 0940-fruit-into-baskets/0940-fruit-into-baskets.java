@@ -13,7 +13,7 @@ class Solution {
                 maxLen = Math.max(maxLen, right - left +1);
             }
             while(set.size() > 2){
-                System.out.println(set);
+                // System.out.println(set);
                 int item = fruits[left];
                 hm.put(item, hm.get(item)-1);
                 if(hm.get(item) <= 0){
