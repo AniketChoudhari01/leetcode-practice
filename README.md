@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0812-rotate-string) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0127-word-ladder) |
 | [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0713-subarray-product-less-than-k) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
