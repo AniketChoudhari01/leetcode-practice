@@ -1,22 +1,23 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        if (s.length() == k) return k;
-        int count[] = new int[26];
-        int start = 0, end = 0;
-        int maxCnt = 0;//keep track of most popular in window
-        int maxLength = 0;//maximum size encountered so far
-        int windowSize = 0;
-        while(end < s.length()){
-            count[s.charAt(end) - 'A']++;
-            maxCnt = Math.max(maxCnt, count[s.charAt(end)-'A']);
-            windowSize = end - start + 1;
-            if(windowSize - maxCnt > k){
-                count[s.charAt(start) - 'A']--;
-                start++;
+        int n = s.length();
+        if(k == n) return n;
+        int left = 0, right = 0;
+        int freq[] = new int[26];
+        int maxLen = 0;
+        int popularElemInwindow = 0, windowSize = 0;
+        while(right < n){
+            char ch = s.charAt(right);
+            freq[ch-'A']++;
+            popularElemInwindow = Math.max(popularElemInwindow, freq[ch-'A']);
+            windowSize = right - left + 1;
+            if(windowSize - popularElemInwindow > k){
+                freq[s.charAt(left)-'A']--;
+                left++;
             }
-            maxLength = Math.max(maxLength, end - start + 1);
-            end++;
+            maxLen = Math.max(maxLen, right - left +1);
+            right++;
         }
-        return maxLength;
+        return maxLen;
     }
 }
