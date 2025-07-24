@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0874-backspace-string-compare](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0874-backspace-string-compare) |
 | [0943-sum-of-subarray-minimums](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-backspace-string-compare](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -688,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2479-meeting-rooms-iii) |
