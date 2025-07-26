@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0919-projection-area-of-3d-shapes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0919-projection-area-of-3d-shapes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
