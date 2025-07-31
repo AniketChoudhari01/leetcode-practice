@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0854-making-a-large-island) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1753-path-with-minimum-effort](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0854-making-a-large-island) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1558-course-schedule-iv) |
@@ -1004,4 +1008,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0919-projection-area-of-3d-shapes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0919-projection-area-of-3d-shapes) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
