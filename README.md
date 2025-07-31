@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1753-path-with-minimum-effort](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2439-longest-cycle-in-a-graph](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1753-path-with-minimum-effort](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2060-merge-bsts-to-create-single-bst) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -693,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1753-path-with-minimum-effort](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2161-stock-price-fluctuation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2161-stock-price-fluctuation) |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
@@ -800,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1558-course-schedule-iv) |
 | [1731-even-odd-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1731-even-odd-tree) |
+| [1753-path-with-minimum-effort](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -890,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
