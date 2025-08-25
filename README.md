@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0854-making-a-large-island) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
