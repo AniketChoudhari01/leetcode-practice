@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
+| [0403-frog-jump](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
