@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0198-house-robber) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0200-number-of-islands) |
