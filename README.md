@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0967-minimum-falling-path-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1036-rotting-oranges) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0967-minimum-falling-path-sum) |
 | [1063-best-sightseeing-pair](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1063-best-sightseeing-pair) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0854-making-a-large-island) |
 | [0919-projection-area-of-3d-shapes](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0919-projection-area-of-3d-shapes) |
+| [0967-minimum-falling-path-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1171-shortest-path-in-binary-matrix) |
