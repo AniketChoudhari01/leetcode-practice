@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0542-01-matrix) |
