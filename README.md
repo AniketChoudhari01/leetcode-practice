@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Tree
 |  |
 | ------- |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [3974-xor-after-range-multiplication-queries-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3974-xor-after-range-multiplication-queries-i) |
 ## Quickselect
 |  |
 | ------- |
