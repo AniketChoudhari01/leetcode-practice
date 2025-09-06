@@ -10,13 +10,14 @@ public:
         sort( g.begin(), g.end());
         sort( s.begin(), s.end());
         int childrens = g.size(), cookies = s.size();
-        for(int child = 0, cookie = 0; child < childrens && child < cookies; child++){
-            while(cookie < cookies && g[child] > s[cookie]){
+        int child = 0, cookie = 0;
+        while(cookie < cookies && child < childrens){
+            if(g[child] <= s[cookie]){
+                child++;
                 cookie++;
-            }
-            if(cookie < cookies && g[child] <= s[cookie]){
                 contented++;
-                cookie++;//once used I cannot assigned this cookie to any other child
+            }else{
+                cookie++;
             }
         }
         return contented;
