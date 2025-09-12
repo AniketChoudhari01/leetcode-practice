@@ -7,7 +7,7 @@ public:
         //alice ->true else false
         //removes the non-empty, odd no. of vowels from string
         //bob even no of substring
-        bool alicwWin = false;
+        // bool alicwWin = false;
         int vowels = 0;
         //greedyliy they try to exhaust the vowels
         for(char ch: s){
@@ -36,6 +36,7 @@ public:
                     return true;
                 }
             }
+            turn = ~turn;
         }
         return (vowels%2 != 0);
     }
