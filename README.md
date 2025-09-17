@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2429-design-a-food-rating-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2478-longest-nice-subarray) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2580-circular-sentence](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2580-circular-sentence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2429-design-a-food-rating-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
+| [2429-design-a-food-rating-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2479-meeting-rooms-iii) |
@@ -984,11 +988,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2161-stock-price-fluctuation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2161-stock-price-fluctuation) |
+| [2429-design-a-food-rating-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2161-stock-price-fluctuation) |
+| [2429-design-a-food-rating-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
