@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2145-grid-game) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2145-grid-game) |
 | [2249-count-the-hidden-sequences](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2249-count-the-hidden-sequences) |
@@ -664,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2478-longest-nice-subarray](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/AniketChoudhari01/myLeetcodeSolutions/tree/master/2866-longest-even-odd-subarray-with-threshold) |
