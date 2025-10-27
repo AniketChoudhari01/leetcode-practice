@@ -1,36 +1,36 @@
 class Solution {
-    public List<Integer> spiralOrder(int[][] mat) {
-        List<Integer> ansList = new ArrayList<>();
-        int m = mat.length;
-        int n = mat[0].length;
-        int top = 0, left = 0, right = n - 1, bottom = m - 1;
+    public List<Integer> spiralOrder(int[][] matrix) {
+        List<Integer> ans = new ArrayList<>();
+        int m = matrix.length;
+        int n = matrix[0].length;
+        int left = 0, top = 0;
+        int right = n - 1, bottom = m - 1;
         while (top <= bottom && left <= right) {
-            // right traversal
+            //right
             for (int i = left; i <= right; i++) {
-                ansList.add(mat[top][i]);
+                ans.add(matrix[top][i]);
             }
             top++;
-            // right most column
+            //bottom
             for (int i = top; i <= bottom; i++) {
-                ansList.add(mat[i][right]);
+                ans.add(matrix[i][right]);
             }
             right--;
-            // bottom row
-            if (top <= bottom) { // Imagine where there is only single row
+            if (top <= bottom) {
+                //left
                 for (int i = right; i >= left; i--) {
-                    ansList.add(mat[bottom][i]);
+                    ans.add(matrix[bottom][i]);
                 }
                 bottom--;
             }
             if (left <= right) {
-                // first column
+                //top
                 for (int i = bottom; i >= top; i--) {
-                    ansList.add(mat[i][left]);
+                    ans.add(matrix[i][left]);
                 }
                 left++;
             }
-
         }
-        return ansList;
+        return ans;
     }
 }
