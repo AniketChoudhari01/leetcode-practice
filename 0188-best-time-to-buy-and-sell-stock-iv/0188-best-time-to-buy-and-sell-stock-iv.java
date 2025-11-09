@@ -25,24 +25,46 @@ class Solution {
         // return dfs(0, 0, k, prices, dp);
 
         //MEMOIZATION: reduces stack space
-        int dp[][][] = new int[n+1][2][k+1];
+        // int dp[][][] = new int[n+1][2][k+1];
         //base case fill with zero
+
+        // for(int idx = n-1; idx >=0; idx--){
+        //     for(int boughtIdx = 0; boughtIdx < 2; boughtIdx++){
+        //         for(int transactions = 0; transactions < k; transactions++){
+        //             int profit = 0;
+        //             if(boughtIdx == 1){//time to sell
+        //                 profit = Math.max(prices[idx]+dp[idx+1][1-boughtIdx][transactions+1], 
+        //                                 dp[idx+1][boughtIdx][transactions]);
+        //             }else{
+        //                 profit = Math.max(-prices[idx]+dp[idx+1][1-boughtIdx][transactions],
+        //                                 dp[idx+1][boughtIdx][transactions]);
+        //             }
+        //             dp[idx][boughtIdx][transactions] = profit;
+        //         }
+        //     }
+        // }
+        // return dp[0][0][0];
+
+        //SPACE OPTIMIZATION:
+        int ahead[][] = new int[2][k+1];
+        int curr[][] = new int[2][k+1];
 
         for(int idx = n-1; idx >=0; idx--){
             for(int boughtIdx = 0; boughtIdx < 2; boughtIdx++){
                 for(int transactions = 0; transactions < k; transactions++){
                     int profit = 0;
                     if(boughtIdx == 1){//time to sell
-                        profit = Math.max(prices[idx]+dp[idx+1][1-boughtIdx][transactions+1], 
-                                        dp[idx+1][boughtIdx][transactions]);
+                        profit = Math.max(prices[idx]+ahead[1-boughtIdx][transactions+1], 
+                                        ahead[boughtIdx][transactions]);
                     }else{
-                        profit = Math.max(-prices[idx]+dp[idx+1][1-boughtIdx][transactions],
-                                        dp[idx+1][boughtIdx][transactions]);
+                        profit = Math.max(-prices[idx]+ahead[1-boughtIdx][transactions],
+                                        ahead[boughtIdx][transactions]);
                     }
-                    dp[idx][boughtIdx][transactions] = profit;
+                    curr[boughtIdx][transactions] = profit;
                 }
             }
+            ahead = curr;
         }
-        return dp[0][0][0];
+        return ahead[0][0];
     }
 }
